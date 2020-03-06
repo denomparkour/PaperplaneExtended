@@ -47,7 +47,8 @@ RUN apk add --no-cache --update \
     sqlite-dev \
     sudo \
     zlib-dev \
-    python-dev
+    python-dev \
+    neofetch
 
 
 RUN python3 -m ensurepip \
@@ -60,7 +61,7 @@ RUN python3 -m ensurepip \
 #
 # Clone repo and prepare working directory
 #
-RUN git clone https://github.com/AvinashReddy3108/PaperplaneExtended /root/userbot
+RUN git clone https://github.com/denomparkour/PaperplaneExtended /root/userbot
 RUN mkdir /root/userbot/bin/
 WORKDIR /root/userbot/
 
