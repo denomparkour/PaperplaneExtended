@@ -17,10 +17,14 @@ from userbot.events import register
 
 # ========================= CONSTANTS ============================
 UNAPPROVED_MSG = (
-    "`Hello! This is an automated message.\n\n`"
-    "`I haven't approved you to PM yet.`"
-    "`Please wait for me to look in, I mostly approve PMs.\n\n`"
-    "`Until then, please don't spam my PM, you'll get blocked and reported!`")
+    "`Bleep Bloop This is a bot😬.\n\n`"
+    "You PM'ed @thedenomparkour but you are talking with @denomparkourbot😐."
+    "You better PM @denomparkourbot coz u shouldn't spem him.kthx"
+    "`You are not approved to pm😐.Top kek.`"
+    "`Your message should be < 5.\n\n`"
+    "`Else you will get reported as spam ASF!!!`"
+    "In case of emergency pls peem @denomparkourbot"
+    "BAMMMMMM!!!💣" )
 # =================================================================
 
 
