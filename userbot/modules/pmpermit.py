@@ -16,15 +16,7 @@ from userbot import (COUNT_PM, CMD_HELP, BOTLOG, BOTLOG_CHATID, PM_AUTO_BAN,
 from userbot.events import register
 
 # ========================= CONSTANTS ============================
-UNAPPROVED_MSG = (
-    "`Bleep Bloop This is a bot😬.\n\n`"
-    "You PM'ed @thedenomparkour but you are talking with @denomparkourbot😐."
-    "You better PM @denomparkourbot coz u shouldn't spem him.kthx"
-    "`You are not approved to pm😐.Top kek.`"
-    "`Your message should be < 5.\n\n`"
-    "`Else you will get reported as spam ASF!!!`"
-    "In case of emergency pls peem @denomparkourbot"
-    "BAMMMMMM!!!💣" )
+UNAPPROVED_MSG = ("[Read the rules first!](https://telegra.ph/Rules-to-PM-03-29)")
 # =================================================================
 
 
