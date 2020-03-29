@@ -47,7 +47,6 @@ RUN apk add --no-cache --update \
     sudo \
     zlib-dev \
     python-dev \
-    neofetch
 
 
 RUN python3 -m ensurepip \
