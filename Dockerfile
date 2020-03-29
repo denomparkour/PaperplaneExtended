@@ -34,7 +34,6 @@ RUN apk add --no-cache --update \
     libxslt-dev \
     linux-headers \
     musl-dev \
-    neofetch \
     openssl-dev \
     postgresql-client \
     postgresql-dev \
