@@ -34,6 +34,7 @@ RUN apk add --no-cache --update \
     libxslt-dev \
     linux-headers \
     musl-dev \
+    neofetch \
     openssl-dev \
     postgresql-client \
     postgresql-dev \
@@ -46,7 +47,7 @@ RUN apk add --no-cache --update \
     sqlite-dev \
     sudo \
     zlib-dev \
-    python-dev \
+    python-dev
 
 
 RUN python3 -m ensurepip \
