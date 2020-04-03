@@ -20,7 +20,7 @@ UNAPPROVED_MSG = ("[Read the rules first!](https://telegra.ph/Rules-to-PM-03-29)
 # =================================================================
 
 
-@register(incoming=True, disable_edited=True, disable_errors=True)
+@register(incoming=True, disable_edited=True, disable_errors=True, disable_web_page_preview=True)
 async def permitpm(event):
     """ Prohibits people from PMing you without approval. \
         Will block retarded nibbas automatically. """
